@@ -36,3 +36,19 @@ section {
 p {
     color: #94a3b8;
 }
+
+/* Button styling */
+button {
+    background: #38bdf8;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+button:hover {
+    background: #0ea5e9;
+}
